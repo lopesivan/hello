@@ -23,7 +23,7 @@ GitHub : [lopesivan](https://github.com/lopesivan)
 
 ## Português
 
-O programa `hello` é uma utilidade simples projetada
+O programa `hello` é uma utilitário simples projetado
 para imprimir "Hello, world!" no console. Serve como um
 teste básico para verificar configurações de sistemas e
 instalações de binários. Esta versão 1.0 é o lançamento
